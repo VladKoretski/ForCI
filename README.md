@@ -1,1 +1,1 @@
-** MAVEN-PROJECT **
+**MAVEN-PROJECT**
